@@ -1,0 +1,2 @@
+ <a href="{{ route('login') }}">
+<img src="{{ asset('assets/Iconos/Barra_Navegacion/Usuario.png') }}" alt="Icono de Sesion" style="margin-right: 10px;"> Iniciar sesión</a>
